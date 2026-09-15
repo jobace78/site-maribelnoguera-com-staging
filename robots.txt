@@ -1,0 +1,3 @@
+# https://jobace78.github.io/site-maribelnoguera-com-staging/robots.txt
+User-agent: *
+Disallow: /
